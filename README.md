@@ -1,4 +1,5 @@
 # web_scrap
+Solve the captcha programmatically
 To store the data in CSV format for the below site.  
 URL : https://main.sci.gov.in/case-status
 step 1: Solve the captcha programmatically 
